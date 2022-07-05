@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "HeadOwner",
+  "mainClass": "com.rappytv.headowner.HeadOwnerAddon",
+  "description": "Shows the owner of the head you're looking at",
+  "version": 1,
+  "author": "RappyTV#6969 [Cr: TebosBrime]",
+  "category": 1,
+  "icon": "https://cdn.discordapp.com/attachments/938944740920016916/994003207665762314/icon.png?size=4096"
+}
