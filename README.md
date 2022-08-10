@@ -4,7 +4,7 @@
 ### Installation
 1. Press `Win` + `R`
 2. Paste this into the window that popped up: `%appdata%/.minecraft/LabyMod/addons-1.12` and press enter
-3. It should open your Labymod addon directory; Paste the [HeadOwner.jar](https://github.com/RappyTV/HeadOwner/releases/download/1.0.0/HeadOwner.jar) in there.
+3. It should open your Labymod addon directory; Paste the [HeadOwner.jar](https://github.com/RappyLabyAddons/HeadOwner/releases/download/1.0.0/HeadOwner.jar) in there.
 4. Launch your Labymod client.
 
 ### Config
@@ -14,7 +14,7 @@
 <br>
 
 If you have any problems with the addon/have update ideas, feel free to
-- Open an Issue [here](https://github.com/RappyTV/HeadOwner/issues/new/choose)
+- Open an Issue [here](https://github.com/RappyLabyAddons/HeadOwner/issues/new/choose)
   or
 - Open a ticket on my [Discord Server](https://rappytv.com/server) in [this](https://discord.com/channels/815912035124248587/840285653946204181) channel
 
