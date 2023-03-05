@@ -1,4 +1,4 @@
-# **HeadOwner**
+# **HeadOwner [LabyMod 3]**
 > With this Addon you can add a new modules to your screen which shows the username of the playerhead you're looking at.
 
 ### Installation
